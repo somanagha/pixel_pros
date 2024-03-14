@@ -1,5 +1,11 @@
-h1{
-    color: red;
-    font-size: 50px;
-    text-align: center;
+.Navbar {
+    background-color: #000;
+    color: #dc2d27;
+    padding: 7px;
+    font-size: 10px;
+    p{
+        text-align: right;
+        display: inline;
+    }
 }
+
